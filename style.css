@@ -46,7 +46,7 @@ body{
 form{
     width: 100%;
 
-    background-color: white;
+    background-color: #eee;
     position: absolute;
     bottom: 0;
     left: 0;
@@ -63,6 +63,8 @@ form select{
 
     position: relative;
     left: 230px;    
+
+    background-color: #eee;
 }
 
 form select:focus{
